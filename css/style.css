@@ -8931,6 +8931,11 @@ h1, h2, h3, h4, h5,
   .ftco-hireme p {
     color: rgba(255, 255, 255, 0.9); }
 
+
+.ftco-project {
+  padding-bottom: 0px !important;
+}
+
 .project {
   width: 100%;
   height: 350px;
@@ -9367,6 +9372,10 @@ textarea.form-control {
       color: #fff;
       border: 1px solid transparent; }
 
+.contact-section {
+  padding-top: 0px !important;
+}
+
 .contact-section .contact-info p a {
   color: #1a1a1a; }
 
@@ -9672,3 +9681,11 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+.padding-top-2em {
+  padding-top: 2em;
+}
+
+.margin-bottom-0 {
+  margin-bottom: 0px !important;
+}
